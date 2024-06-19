@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Shreya Singh<br>I'm a Computer Science Student at Thapar Institute of Engineering and Technology (TIET)<br>I'm a Front-End developer and Java Programmer<br>Always looking forward to collaborate
+I'm Shreya Singh<br>I'm a Computer Science Student at Thapar Institute of Engineering and Technology (TIET)<br>I'm a Front-End developer,Python Back-End developer and Java Programmer<br>Always look forward to collaborating
 
 
 ## 🌐 Socials:
